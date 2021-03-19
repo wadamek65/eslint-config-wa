@@ -35,7 +35,6 @@
   ],
   "rules": {
     "jsx-a11y/no-onchange": "off",
-    "no-tabs": "error",
     "react/prop-types": [0],
     "prettier/prettier": [
       "error",
